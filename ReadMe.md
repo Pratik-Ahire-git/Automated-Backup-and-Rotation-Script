@@ -128,3 +128,5 @@ Older backups beyond these limits are automatically deleted according to this st
 ## Conclusion
 
 This automated backup management script provides an efficient way to ensure your project files are regularly backed up and easily accessible in Google Drive while managing older backups effectively.
+
+![Alt text](./drive_image.png)
